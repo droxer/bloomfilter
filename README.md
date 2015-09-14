@@ -1,3 +1,5 @@
 # bloom filter
 
-Experimental implementation of [bloom filter](https://en.wikipedia.org/wiki/Bloom_filter).
+This package provides a experimental implementation of [bloom filter](https://en.wikipedia.org/wiki/Bloom_filter).
+
+See [(http://godoc.org/github.com/droxer/bloomfilter)](http://godoc.org/github.com/droxer/bloomfilter) for documentation.
